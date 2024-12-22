@@ -1,0 +1,17 @@
+sudo apt update
+sudo apt install python3
+sudo apt install python3-venv
+python3 -m venv redfin_venv
+source redfin_venv/bin/activate
+pip install pandas
+pip install boto3
+pip install awscli
+pip install apache-airflow
+airflow version
+python3 --version
+aws configure
+airflow standalone
+
+-- to access Airflow with EC2 public IP, in Security add Custom TCP with Port: 8080 Source: Anywhere
+
+<public_ip_address>:8080
