@@ -1,4 +1,4 @@
-## Redfin ETL Pipeline with Airflow, AWS EC2, Snowflake, and Power BI
+## Project 4: Redfin ETL Pipeline with Airflow, AWS EC2, Snowflake, and Power BI
 
 ![redfin-etl-with-airflow-on-ec2](./images/redfin-etl-with-airflow-on-ec2.png)
 
